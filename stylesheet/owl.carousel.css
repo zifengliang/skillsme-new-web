@@ -240,13 +240,13 @@
     -o-transition: opacity 200ms ease;
 }
 .owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
-    background-color: #18ba60;
+    background-color: #3f51b5;
     
 }
 
 /* Styling Next and Prev buttons */
 .owl-theme .owl-controls .owl-nav div {
-    background: #18ba60;
+    background: #3f51b5;
     text-align: center;
     display: inline-block;
     outline: 0;
@@ -293,7 +293,7 @@
 
 .owl-theme .owl-controls .owl-nav div.owl-prev:hover:before,
 .owl-theme .owl-controls .owl-nav div.owl-next:hover:before {    
-    color: #18ba60;
+    color: #3f51b5;
 }
 
 .owl-theme .owl-controls .owl-nav div.owl-next {
