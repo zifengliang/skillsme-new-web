@@ -1425,13 +1425,15 @@ ul.flat-social li {
 }
 
 .notification_error {
-    padding-top: 10px;
-    color: #3f51b5;
+	padding-top: 10px;
+	color: white;
+    /* color: #3f51b5; */
 }
 
 .notification_ok {
-    text-align: center;
-    color: #3f51b5;
+	text-align: center;
+	color: white;
+    /* color: #3f51b5; */
 }
 
 /* Footer Bottom

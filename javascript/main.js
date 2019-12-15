@@ -767,7 +767,7 @@
             subscribeMsg      : $('#subscribe-msg'),
             subscribeContent  : $("#subscribe-content"),
             dataMailchimp     : $('#subscribe-form').attr('data-mailchimp'),
-            success_message   : '<div class="notification_ok">Thank you for joining our mailing list! Please check your email for a confirmation link.</div>',
+            success_message   : '<div class="notification_ok">Thank you for joining our mailing list!</div>',
             failure_message   : '<div class="notification_error">Error! <strong>There was a problem processing your submission.</strong></div>',
             noticeError       : '<div class="notification_error">{msg}</div>',
             noticeInfo        : '<div class="notification_error">{msg}</div>',
